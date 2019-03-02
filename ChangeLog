@@ -1,3 +1,6 @@
+2019-03-02  netz.coop eG <kontakt@netz.coop>
+	* 9.5.0.1 - HACK: EXT:tt_news/Configuration/TCA/tt_news.php types direkt deutsch eingestellt, da mechanismus nicht greift
+
 2019-02-12  netz.coop eG <kontakt@netz.coop>
 	* https://github.com/rupertgermann/tt_news/issues/119 BUGFIX 2: SQL error: 'Incorrect integer value: '' for column 'shortcut' at row 1' (tt_news_cat:NEW...)
 

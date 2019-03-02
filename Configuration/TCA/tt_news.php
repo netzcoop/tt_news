@@ -481,11 +481,11 @@ return [
         '0' => [
             'showitem' =>
                 'hidden, type,title,short,bodytext,
-            --div--;LLL:EXT:tt_news/Resources/Private/Language/locallang_tca.xlf:tt_news.tabs.special, datetime,archivedate,--palette--;;author,keywords,--palette--;;language,
-			--div--;LLL:EXT:tt_news/Resources/Private/Language/locallang_tca.xlf:tt_news.tabs.media, image,--palette--;;imagetexts,links,news_files,
-			--div--;LLL:EXT:tt_news/Resources/Private/Language/locallang_tca.xlf:tt_news.tabs.catAndRels, category,related,
-			--div--;LLL:EXT:tt_news/Resources/Private/Language/locallang_tca.xlf:tt_news.tabs.access, starttime,endtime,fe_group,editlock,
-			--div--;LLL:EXT:tt_news/Resources/Private/Language/locallang_tca.xlf:tt_news.tabs.extended,
+            --div--;LLL:EXT:tt_news/Resources/Private/Language/de.locallang_tca.xlf:tt_news.tabs.special, datetime,archivedate,--palette--;;author,keywords,--palette--;;language,
+			--div--;LLL:EXT:tt_news/Resources/Private/Language/de.locallang_tca.xlf:tt_news.tabs.media, image,--palette--;;imagetexts,links,news_files,
+			--div--;LLL:EXT:tt_news/Resources/Private/Language/de.locallang_tca.xlf:tt_news.tabs.catAndRels, category,related,
+			--div--;LLL:EXT:tt_news/Resources/Private/Language/de.locallang_tca.xlf:tt_news.tabs.access, starttime,endtime,fe_group,editlock,
+			--div--;LLL:EXT:tt_news/Resources/Private/Language/de.locallang_tca.xlf:tt_news.tabs.extended,
 			'
         ],
 
